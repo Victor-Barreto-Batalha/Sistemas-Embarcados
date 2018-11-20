@@ -1,4 +1,4 @@
-Data: 25/04/2017
+
 
 1. Com relação às conexões GPIO do modelo de Raspberry Pi que você usará no projeto, responda:
 	(a) Quais pinos podem ser utilizados como entradas e saídas digitais comuns?

@@ -1,4 +1,4 @@
-Data: 11/05/2017
+
 
 1. Cite as vantagens e desvantagens das comunicação serial:
 	(a) Assíncrona (UART). 

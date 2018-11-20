@@ -1,4 +1,4 @@
-Data: 04/03/2017
+
 
 1. Quais são as vantagens e desvantagens em utilizar:
 	(a) fork? Vantagens:cada filho tem seu espaço de memória proegido. Desvantagens: a aplicação roda vários programas filho.

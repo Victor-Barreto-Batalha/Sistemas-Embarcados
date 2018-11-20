@@ -1,4 +1,3 @@
-Data: 06/04/2017
 
 1. Apresente as características e utilidades das seguintes funções:
 	(a) popen() - executa o comando especificado pela string de comando. Cria um pipe entre o programa chamado e o programa executado, e deve retornar um ponteiro para uma stream que pode ser usado para ler ou escrever no pipe.

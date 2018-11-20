@@ -1,4 +1,4 @@
-Data: 20/04/2017
+
 
 1. Defina qual modelo de Raspberry Pi você utilizará no projeto desta disciplina com o Raspberry Pi. Justifique sua escolha.
 Raspberry pi 3, modelo B. Principalmente por possuir wifi intergrado à placa, que será útil em nosso projeto.
